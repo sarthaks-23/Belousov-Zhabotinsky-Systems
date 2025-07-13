@@ -1,4 +1,4 @@
-% Appendix B: RED Channel Analysis and Model Fitting
+% Appendix C: RED Channel Analysis and Model Fitting
 % Place your video file in the directory and name it 'IMG_5146.MOV'
 % This script extracts the RED intensity, detects valleys, and fits Oregonator output
 
