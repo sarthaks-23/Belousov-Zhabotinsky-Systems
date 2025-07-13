@@ -1,4 +1,4 @@
-% Appendix C: Spatio-Temporal Wavefront Analysis
+% Appendix D: Spatio-Temporal Wavefront Analysis
 % Analyze wave propagation in radial direction using RGB video frames
 
 clc; clear;
